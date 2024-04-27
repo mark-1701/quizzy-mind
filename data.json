@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "question": "¿Cuál de los siguientes países ha ganado más Copas del Mundo de la FIFA?",
+    "options": {
+      "option1": "Italia",
+      "option2": "Argentina",
+      "option3": "Alemania",
+      "option4": "Brasil"
+    },
+    "correctAnswer": "Brasil",
+    "image_uri": "image_1.jpg"
+  },
+  {
+    "id": 1,
+    "question": "¿Qué jugador ha marcado más goles en una sola temporada de la Premier League?",
+    "options": {
+      "option1": "Alan Shearer",
+      "option2": "Cristiano Ronaldo",
+      "option3": "Thierry Henry",
+      "option4": "Mohamed Salah"
+    },
+    "correctAnswer": "Mohamed Salah",
+    "image_uri": "image_2.jpg"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es el único equipo que ha ganado la Liga de Campeones de la UEFA tres veces consecutivas?",
+    "options": {
+      "option1": "Bayern Munich",
+      "option2": "FC Barcelona",
+      "option3": "Manchester United",
+      "option4": "Real Madrid"
+    },
+    "correctAnswer": "Real Madrid",
+    "image_uri": "image_3.jpg"
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál de los siguientes jugadores ha ganado el Balón de Oro en más ocasiones?",
+    "options": {
+      "option1": "Cristiano Ronaldo",
+      "option2": "Lionel Messi",
+      "option3": "Michel Platini",
+      "option4": "Marco van Basten"
+    },
+    "correctAnswer": "Lionel Messi",
+    "image_uri": "image_4.jpg"
+  },
+  {
+    "id": 4,
+    "question": "¿Quién es el máximo goleador en la historia de la Copa América?",
+    "options": {
+      "option1": "Pelé",
+      "option2": "Lionel Messi",
+      "option3": "Gabriel Batistuta",
+      "option4": "Diego Maradona"
+    },
+    "correctAnswer": "Lionel Messi",
+    "image_uri": "image_5.jpg"
+  }
+]
